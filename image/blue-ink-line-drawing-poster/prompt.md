@@ -26,7 +26,7 @@ In the blank space below the main subject, add the city name in a very small siz
 
 [City Name]
 
-Center the text, with a very small font size; use a slender, elegant, scholarly font for the Chinese, and a refined Serif font for the English with moderately increased letter spacing.
+Center the text, with a very small font size; use a slender, elegant, refined Serif font with moderately increased letter spacing.
 The text serves only as an accent to the image—do not let it overshadow the main city illustration.
 
 Overall Effect Like:
